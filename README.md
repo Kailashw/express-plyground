@@ -28,7 +28,7 @@ Welcome to **express-playground**, a simple Express.js application that demonstr
 1. Clone the repo:
 
 ```bash
-git clone https://github.com/your-username/express-playground.git
+git clone https://github.com/Kailashw/express-plyground
 cd express-playground
 ```
 2. Install dependencies:
